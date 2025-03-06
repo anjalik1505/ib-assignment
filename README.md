@@ -40,7 +40,7 @@ A code editor (e.g., VS Code)
 
 ### Navigate to the Frontend Directory:
 
-`cd <project-directory>/exercise`
+`cd <project-directory>/`
 
 ### npm install
 
