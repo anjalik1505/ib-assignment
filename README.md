@@ -50,7 +50,7 @@ A code editor (e.g., VS Code)
 
 `npm run dev`
 
-The application will be available locally: http://localhost:5174.
-Live on vercel: https://ib-assignment.vercel.app/
-Github link for source code: https://github.com/anjalik1505/ib-assignment
+#### The application will be available locally: http://localhost:5174
+#### Live on vercel: https://ib-assignment.vercel.app/ 
+#### Github link for source code: https://github.com/anjalik1505/ib-assignment
 
